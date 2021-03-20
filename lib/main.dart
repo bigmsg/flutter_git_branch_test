@@ -89,6 +89,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text('2번째 commit'),
             Text('branch01 3번째 commit'),
+            Text('branch01 4번째 commit');
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
